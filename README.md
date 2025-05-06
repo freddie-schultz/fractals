@@ -1,1 +1,1 @@
-Fractal Generator (Coming soon!)
+Fractal Generator (coming soon!)
